@@ -28,4 +28,3 @@ class Turtle extends Animal {
 
 const turtleMini = new Turtle("Mica", 1, 1);
 turtleMini.animalInfo();
-//turtleCica.animalInfo();
